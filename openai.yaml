@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜脚本设计"
+  short_description: "为 Seedance 与 Higgsfield 编写全中文电影级视频提示词"
+  default_prompt: "使用 $cine 把我的场景整理成全中文、可直接生成的视频提示词。"
